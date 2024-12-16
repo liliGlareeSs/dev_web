@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../favicon"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mini_Projet.html",
+		"liveServer.settings.port": 5501
+	}
+}
